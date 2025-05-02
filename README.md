@@ -1,26 +1,25 @@
-### Olá! Eu sou o Pedro Rohem!  ✌️✌️
+Olá, me chamo Pedro Rohem👋
+Sou um profissional apaixonado por DevSecOps e toda a sua cultura. Com foco em facilitar e automatizar fluxos de trabalho para os times de desenvolvimento, além de espalhar a cultura através de apresentações e documentos.
+Além disso trabalho também com desenvolvimento backend (Java, C#, Node, Python).
+🔧 O que eu faço
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjsnzLpKwwSDGMwwFcNJpZGBXLXkTRvdcrBJRRqndNLRZXmqqKlBZqkCJwqNMbCZXbFCQV)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pprohem)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pprohem/)
+DevOps: Implemento e gerencio pipelines de CI/CD (GitHub Actions, GitLab CI, Jenkins, etc.) para entregas contínuas e confiáveis.
+Cloud: Trabalho com plataformas como GCP, AWS e Azure, configurando e otimizando infraestrutura como código (IaC) com ferramentas como Terraform e CloudFormation.
+Contêineres e Orquestração: Utilizo Docker para criação de contêineres e Kubernetes para orquestração, garantindo alta disponibilidade e escalabilidade.
+Monitoramento e Observabilidade: Configuro soluções de monitoramento com Prometheus, Grafana e ferramentas nativas de nuvem para garantir a saúde dos sistemas.
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pprohem&show_icons=true&theme=dracula)
+🚀 Tecnologias e Ferramentas
 
-### Tecnologias que utilizo:
-
-<div style="display: inline_block"> <br />
-    <img align="center" alt ="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt ="ts" src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
-    <img align="center" alt ="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
-    <img align="center" alt ="c" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
-    <img align="center" alt ="react" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-    <img align="center" alt ="reactnatv" src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-    <img align="center" alt ="angular" src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>
-    <img align="center" alt ="styledcomponents" src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white>
-    <img align="center" alt ="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-    <img align="center" alt ="html" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-     <img align="center" alt ="html" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
-</div> <br/>
+Cloud: GCP (Cloud Run, GKE, BigQuery), AWS (EC2, Lambda, ECS), Azure (AKS, Functions)
+CI/CD: GitHub Actions, GitLab CI, Jenkins, CircleCI
+IaC: Terraform, Ansible, CloudFormation
+Contêineres: Docker, Kubernetes, Helm
+Monitoramento: Prometheus, Grafana
+Outros: Git, Linux, Shell Scripting, REST APIs
 
 
- Em constante evolução! 😊😊
+📫 Como me encontrar
+
+LinkedIn: https://www.linkedin.com/in/pprohem/
+E-mail: pprg00@gmail.com
+
